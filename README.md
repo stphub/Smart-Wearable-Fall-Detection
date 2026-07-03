@@ -58,7 +58,7 @@ This project is a real-time web dashboard developed to monitor health data, dete
 ![System Design](images/design-3d-base.png)
 ![System Design](images/design-3d-dongle.png)
 ![System Design](images/design-3d-pcb.png)
-![System Design](images/design-pcb-kicad 9.0.png)
+![System Design](images/design-pcb-kicad-9.0.png)
 
 ### Telegram Notification
 ![Telegram Notification & Dashboard On Telegram](images/Telegram-Notification.jpg)
